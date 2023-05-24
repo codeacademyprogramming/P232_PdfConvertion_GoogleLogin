@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "Ol693bcPtHBv6X687OjWZNlkdMSsL6GRtG+NpUSAqVc=",
+  "Source": "Api",
+  "BasePath": "_content/Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api\\wwwroot",
+      "Source": "Api",
+      "ContentRoot": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Backend\\API\\ShopApp\\api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Backend\\API\\ShopApp\\api\\wwwroot\\html\\bootstrap.min.css",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Backend\\API\\ShopApp\\api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "html/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Backend\\API\\ShopApp\\api\\wwwroot\\html\\bootstrap.min.css.map",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Backend\\API\\ShopApp\\api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "html/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Backend\\API\\ShopApp\\api\\wwwroot\\html\\report.html",
+      "SourceId": "Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Backend\\API\\ShopApp\\api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "RelativePath": "html/report.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\report.html"
+    }
+  ]
+}

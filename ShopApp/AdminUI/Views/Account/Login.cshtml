@@ -1,0 +1,28 @@
+﻿@model AdminLoginViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <h1>Login</h1>
+
+        <form asp-action="login" method="post">
+            <div class="form-group">
+                <label asp-for="UserName">UserName</label>
+                <input class="form-control" asp-for="UserName">
+                <span class="text-danger" asp-validation-for="UserName"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password">Password</label>
+                <input class="form-control" asp-for="Password">
+                <span class="text-danger" asp-validation-for="Password"></span>
+            </div>
+           <div class="text-danger"asp-validation-summary="ModelOnly"></div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
+
+
+
